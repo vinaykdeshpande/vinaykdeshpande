@@ -1,9 +1,12 @@
-- HELLO, Vinay kumar k here...!!!
-- 👀 I’m interested in ... embedded engineer
-- 🌱 I’m currently learning ... embedded c,linux , masters in embedded systems 
-- 💞️ I’m looking to collaborate on ...real time projects related to embedded C
-- 📫 How to reach me ... vinaykdeshpande 
-- fun fact... "NO MATTER WHAT WORK HARD DREAM BIG"
+Hello, Vinay Kumar K Deshpande...!!!
+
+👀 I’m interested in ... embedded engineering.
+🌱 I’m currently learning ... embedded C, Linux, and pursuing a master's in Embedded Systems.
+💼 Currently working at CrestAerospace Technology in the domain of IoT research and development.
+💞️ I’m looking to collaborate on ... real-time projects related to embedded C.
+📫 How to reach me ... You can reach me at [vinaykdeshpande](https://github.com/vinaykdeshpande).
+Fun fact: "No matter what, work hard and dream big."
+
 
 <!---
 vinaykdeshpande/vinaykdeshpande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
